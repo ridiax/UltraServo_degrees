@@ -97,7 +97,7 @@ void desenharObjeto(){
   pixsDitancia = xDistancia*((height-height*0.1666)*0.025);
   
   // Limitando o range para 40 cms
-  if ( xDistance < 40 ) {
+  if ( xDistancia < 40 ) {
   // Desenhando o objeto de acordo com o angulo e distancia. (Em Vermelho 'stroke( 255,10,10 );' 
   line(pixsDitancia*cos(radians(xAngulo)),-pixsDitancia*sin(radians(xAngulo)),(width-width*0.505)*cos(radians(xAngulo)),-(width-width*0.505)*sin(radians(xAngulo)));
   }
