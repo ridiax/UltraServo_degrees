@@ -25,6 +25,11 @@ void loop(){
     delay(35);
     
     distancia = calcularDistancia();
+
+    Serial.print(r);
+    Serial.print(",");
+    Serial.print(distancia);
+    Serial.print("!");
   }
 
   // Rotacionando ao contrario
@@ -33,6 +38,11 @@ void loop(){
     delay(35);
     
     distancia = calcularDistancia();
+    
+    Serial.print(r);
+    Serial.print(",");
+    Serial.print(distancia);
+    Serial.print("!");
   }
 
   
