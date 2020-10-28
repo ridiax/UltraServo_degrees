@@ -1,6 +1,8 @@
 #O_body{
     max-width: 720px;
     background: #1f2d5d;
+    display: block;
+    margin: auto;
 }
 
 #_header{
@@ -33,6 +35,7 @@
 ._p{
     font-size: 14px;
     text-align: center;
+    color: #d3d6e0;  
 }
 
 #sec{
@@ -61,11 +64,9 @@ a{
 }
 
 ._video{
-    width: 500px;
-    height: 500px;
     display: block;
     margin: auto;
-    margin-top: 0px;
+    margin-top: 12px;
     margin-bottom: 0px;
 
 }
