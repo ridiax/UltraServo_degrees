@@ -2,7 +2,7 @@ Esse repositório é um repositório de testes e estudos para o sensor ultrasson
 
 Antes de tudo gostaria de deixar claro que a base do code em Processing foi baseada em codes de outros autores, apenas usado
 como base de estudo e aprendizagem! Eu traduzi o code para PT-BR e gerei alguns comentários, além de mudar algumas condições para
-ver seu funcionamento e compreender melhor o que foi feito pelo Autor Desconhecido (O code apenas tinha seu credito com: Indian Lifehacker).
+ver seu funcionamento e compreender melhor o que foi feito pelo Autor(O code apenas tinha seu credito com: Indian Lifehacker).
 
 Os codes estão comentados em PT-BR e funcionando!
 
