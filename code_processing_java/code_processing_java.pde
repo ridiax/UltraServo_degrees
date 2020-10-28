@@ -142,8 +142,8 @@ void desenharTexto() {
   text("40cm",width-width*0.0729,height-height*0.0833);
   textSize(40);
   text("HC-SR04: ", width-width*0.875, height-height*0.0277);
-  text("Angle: " + xAngulo +" °", width-width*0.48, height-height*0.0277);
-  text("Distance: ", width-width*0.26, height-height*0.0277);
+  text("ANG: " + xAngulo +" °", width-width/2, height-height*0.0277);
+  text("DIST: ", width-width*0.26, height-height*0.0277);
   
   // Se a distancia for menor que 40 cms
   if( xDistancia < 40 ) {
